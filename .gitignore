@@ -1,0 +1,13 @@
+.idea/
+vendor/
+Gemfile.lock
+Berksfile.lock
+data_bags/aws/credentials.json
+.vagrant
+/cookbooks
+bin/*
+.bundle/*
+.kitchen/
+.kitchen.local.yml
+.delivery
+
